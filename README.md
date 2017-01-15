@@ -1,4 +1,6 @@
 # Warehouse-IntelX86
+__Author:__ Levindo Gabriel Taschetto Neto.
+
 Warehouse developed in assembler for the Intel x86 Processor.
 
 A definition in a portuguese version can be seen in the following link:
